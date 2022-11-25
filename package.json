@@ -1,0 +1,19 @@
+{
+  "name": "twitter-scraper",
+  "version": "1.0.0",
+  "description": "An api that allows users to query meta from a twitter. This includes comments, likes, reshares, etc.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "api",
+    "scraper"
+  ],
+  "author": "erick-pacheco",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
